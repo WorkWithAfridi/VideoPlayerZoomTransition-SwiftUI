@@ -6,8 +6,21 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EF53DDA32D1EFABA000894F8 /* video-5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EF53DD9E2D1EFAB9000894F8 /* video-5.mp4 */; };
+		EF53DDA42D1EFABA000894F8 /* video-3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EF53DD9F2D1EFABA000894F8 /* video-3.mp4 */; };
+		EF53DDA52D1EFABA000894F8 /* video-1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EF53DDA02D1EFABA000894F8 /* video-1.mp4 */; };
+		EF53DDA62D1EFABA000894F8 /* video-2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EF53DDA12D1EFABA000894F8 /* video-2.mp4 */; };
+		EF53DDA72D1EFABA000894F8 /* video-4.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = EF53DDA22D1EFABA000894F8 /* video-4.mp4 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		EF53DD8D2D1EFAA2000894F8 /* ZoomTransitions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZoomTransitions.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF53DD9E2D1EFAB9000894F8 /* video-5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-5.mp4"; sourceTree = "<group>"; };
+		EF53DD9F2D1EFABA000894F8 /* video-3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-3.mp4"; sourceTree = "<group>"; };
+		EF53DDA02D1EFABA000894F8 /* video-1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-1.mp4"; sourceTree = "<group>"; };
+		EF53DDA12D1EFABA000894F8 /* video-2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-2.mp4"; sourceTree = "<group>"; };
+		EF53DDA22D1EFABA000894F8 /* video-4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "video-4.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +45,11 @@
 		EF53DD842D1EFAA2000894F8 = {
 			isa = PBXGroup;
 			children = (
+				EF53DDA02D1EFABA000894F8 /* video-1.mp4 */,
+				EF53DDA12D1EFABA000894F8 /* video-2.mp4 */,
+				EF53DD9F2D1EFABA000894F8 /* video-3.mp4 */,
+				EF53DDA22D1EFABA000894F8 /* video-4.mp4 */,
+				EF53DD9E2D1EFAB9000894F8 /* video-5.mp4 */,
 				EF53DD8F2D1EFAA2000894F8 /* ZoomTransitions */,
 				EF53DD8E2D1EFAA2000894F8 /* Products */,
 			);
@@ -109,6 +127,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF53DDA32D1EFABA000894F8 /* video-5.mp4 in Resources */,
+				EF53DDA42D1EFABA000894F8 /* video-3.mp4 in Resources */,
+				EF53DDA52D1EFABA000894F8 /* video-1.mp4 in Resources */,
+				EF53DDA62D1EFABA000894F8 /* video-2.mp4 in Resources */,
+				EF53DDA72D1EFABA000894F8 /* video-4.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
